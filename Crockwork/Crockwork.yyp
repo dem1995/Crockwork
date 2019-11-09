@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "30d9d1fb-fb39-40f5-900e-bc4fd37a4863",
+            "Value": {
+                "id": "593535d9-278f-4b0a-9d93-b394d69a200f",
+                "resourcePath": "sprites\\spr_croc\\spr_croc.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e4aeabd-afb0-48f1-8ab2-4c8d1171eab8",
             "Value": {
                 "id": "0464b74e-cba1-40b3-92e0-220ec3206552",
