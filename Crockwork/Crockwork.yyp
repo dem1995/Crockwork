@@ -58,8 +58,16 @@
             "Key": "2251bfbd-2636-43e6-a685-844b893301a8",
             "Value": {
                 "id": "cd3bdcff-c019-4976-9e4d-11e727a6f3d3",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\mainRoom\\mainRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "28991ef1-0cfc-49de-bdfd-87cf6b447278",
+            "Value": {
+                "id": "074e9a36-e01e-4d2c-ae43-a09f06c08d17",
+                "resourcePath": "objects\\croc\\croc.yy",
+                "resourceType": "GMObject"
             }
         },
         {
