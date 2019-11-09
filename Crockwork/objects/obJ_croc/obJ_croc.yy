@@ -1,8 +1,8 @@
 {
-    "id": "e2494be1-57ec-476b-89e9-e881fa0aaa5d",
+    "id": "28991ef1-0cfc-49de-bdfd-87cf6b447278",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "menu",
+    "name": "obj_Croc",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fc8ee3cb-29f2-4aa3-a2fc-86441eb5cb2e",
+    "spriteId": "30d9d1fb-fb39-40f5-900e-bc4fd37a4863",
     "visible": true
 }
