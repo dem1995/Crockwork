@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "30c24ae8-8f1c-4e39-adfb-daebb749727b",
+            "Value": {
+                "id": "1fd5efb7-7156-4dd9-8a6c-4b1768977c5f",
+                "resourcePath": "sprites\\hand\\hand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "30d9d1fb-fb39-40f5-900e-bc4fd37a4863",
             "Value": {
                 "id": "593535d9-278f-4b0a-9d93-b394d69a200f",
