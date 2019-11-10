@@ -135,14 +135,6 @@
             }
         },
         {
-            "Key": "9520e4f8-9d65-4f97-9986-ab2e800043e2",
-            "Value": {
-                "id": "ccccba5b-ca74-4bd4-a2fc-a0021e8694ca",
-                "resourcePath": "scripts\\hand_movement\\hand_movement.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "a1f92407-999e-4bfe-9c1d-fa11d9ef2eed",
             "Value": {
                 "id": "1b8a208d-5695-4873-8f26-db212104063e",
@@ -248,7 +240,7 @@
         }
     ],
     "script_order": [
-        "9520e4f8-9d65-4f97-9986-ab2e800043e2"
+        
     ],
     "tutorial": ""
 }
