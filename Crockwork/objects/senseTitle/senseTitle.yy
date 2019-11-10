@@ -1,19 +1,10 @@
 {
-    "id": "9ccb1124-328c-49c1-9ffb-183a7de2b318",
+    "id": "192091e9-045c-4601-8550-6ac67c0f5a72",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "startButton",
+    "name": "senseTitle",
     "eventList": [
-        {
-            "id": "91053e16-3c86-4e20-8252-ef37028f8d08",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "9ccb1124-328c-49c1-9ffb-183a7de2b318"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fd9940c9-755f-4941-8821-910d09816910",
+    "spriteId": "b9cea66d-5efd-4096-8211-dd60a0fb5b1d",
     "visible": true
 }
