@@ -295,11 +295,27 @@
             }
         },
         {
+            "Key": "9dca7044-8e76-4cb1-924c-2ab736129d91",
+            "Value": {
+                "id": "6d03f21e-94b7-4f45-9f0e-02e7593e7450",
+                "resourcePath": "objects\\gameOverObject\\gameOverObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9eebb373-daf1-42af-8a2a-b75b7235b0e9",
             "Value": {
                 "id": "7e205f1e-33df-4341-ad8a-3207f41d8045",
                 "resourcePath": "sprites\\spr_scorebox\\spr_scorebox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a11d89e9-72bf-4b48-942e-2da57bb572a9",
+            "Value": {
+                "id": "1304afa4-e194-4c7d-a2ec-02144923028c",
+                "resourcePath": "rooms\\GameOver\\GameOver.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -372,6 +388,14 @@
                 "id": "6107b36f-4dbd-42ac-9371-4f407ffd4aea",
                 "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "bfadefa0-f661-4f3a-8c7b-f50b2b95a6ae",
+            "Value": {
+                "id": "62423b3f-7b48-4b64-aafd-628de7632078",
+                "resourcePath": "sprites\\sprite20\\sprite20.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -468,6 +492,14 @@
                 "id": "aafb06d8-f083-4541-b68d-c083e877d776",
                 "resourcePath": "notes\\sources.yy",
                 "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "e500690b-6d3a-4812-b332-73b349e8218c",
+            "Value": {
+                "id": "4635eb17-e618-48ce-8f1f-70f38d8f1515",
+                "resourcePath": "sprites\\GAMEOVER19\\GAMEOVER19.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
