@@ -1,18 +1,28 @@
 {
-    "id": "9ccb1124-328c-49c1-9ffb-183a7de2b318",
+    "id": "8f3f2801-1623-4b5a-bfd5-3c7f0467fad9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "startButton",
+    "name": "sense1",
     "eventList": [
         {
-            "id": "91053e16-3c86-4e20-8252-ef37028f8d08",
+            "id": "0b47cff6-63c2-4207-9022-2e905ac17936",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "8f3f2801-1623-4b5a-bfd5-3c7f0467fad9"
+        },
+        {
+            "id": "90b3da60-749c-45a3-9d7c-2c87e7f7ca4b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "9ccb1124-328c-49c1-9ffb-183a7de2b318"
+            "eventtype": 0,
+            "m_owner": "8f3f2801-1623-4b5a-bfd5-3c7f0467fad9"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fd9940c9-755f-4941-8821-910d09816910",
+    "spriteId": "73ea5d39-83d9-4dd9-b170-66f60eb531e8",
     "visible": true
 }

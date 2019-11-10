@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "exitButton",
     "eventList": [
-        
+        {
+            "id": "6f32cf15-c771-49b6-95b6-0c13ff69a119",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "c2fc1b50-c1d6-4c0e-afde-1769226d347e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
