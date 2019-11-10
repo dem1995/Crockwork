@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "c6078650-4d29-444c-9fe0-1a8f3417fd4f",
+            "Value": {
+                "id": "de96a0e4-1113-4392-816f-c1f648f94cda",
+                "resourcePath": "objects\\Cursor\\Cursor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c6af83ba-cd2e-4538-9039-5622613422ac",
             "Value": {
                 "id": "01830b0c-8a75-476b-9653-d76a7389ab9f",
