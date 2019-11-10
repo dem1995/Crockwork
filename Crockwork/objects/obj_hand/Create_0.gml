@@ -3,7 +3,7 @@
 
 //We will likely want to change where this starts later (i.e., in crocodile mouth?)
 x = mouse_x;
-y = mouse_y;
+y = mouse_x;
 
 mouse_old_x=x;
 mouse_old_y=y;
