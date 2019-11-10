@@ -15,7 +15,6 @@ if (current_time/1000 >= time_of_next_snap)
 	sprite_index = spr_crocbite
 	
 	
-	score = times_snapped;
 	//Change croc 
 	
 	//Update time of next snap to be concave	
