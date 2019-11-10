@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "30d9d1fb-fb39-40f5-900e-bc4fd37a4863",
-            "Value": {
-                "id": "593535d9-278f-4b0a-9d93-b394d69a200f",
-                "resourcePath": "sprites\\spr_croc\\spr_croc.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3e4aeabd-afb0-48f1-8ab2-4c8d1171eab8",
             "Value": {
                 "id": "0464b74e-cba1-40b3-92e0-220ec3206552",
@@ -143,6 +135,14 @@
             }
         },
         {
+            "Key": "702e8b55-2184-407e-b852-ededbf7f4cb3",
+            "Value": {
+                "id": "fbd227f3-e0bf-4112-8661-f5055352ccb8",
+                "resourcePath": "sprites\\spr_croc\\spr_croc.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73ea5d39-83d9-4dd9-b170-66f60eb531e8",
             "Value": {
                 "id": "a3f5bdc5-599b-43f0-b4c1-87300e448bb4",
@@ -156,6 +156,14 @@
                 "id": "9ba3b16d-9792-472e-9009-9e1c9cfa78e3",
                 "resourcePath": "views\\82356f6f-80e9-4e94-9091-0057860b5ed0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9eebb373-daf1-42af-8a2a-b75b7235b0e9",
+            "Value": {
+                "id": "7e205f1e-33df-4341-ad8a-3207f41d8045",
+                "resourcePath": "sprites\\spr_scorebox\\spr_scorebox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,6 +239,14 @@
             }
         },
         {
+            "Key": "d76bb432-cf14-424c-86fe-13e8d3690f01",
+            "Value": {
+                "id": "6236c480-5a4e-4579-b181-8e5d57b5999b",
+                "resourcePath": "objects\\obj_Scoreboard\\obj_Scoreboard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "df0bfc20-e8d8-4a49-b89f-96c96cd3f46e",
             "Value": {
                 "id": "b961d738-c9b3-4c1c-b672-275dcc8bb383",
@@ -275,6 +291,14 @@
             "Value": {
                 "id": "ce072f63-a313-48a9-8acf-143a5d3903e5",
                 "resourcePath": "objects\\obj_Face\\obj_Face.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fac4b476-b89d-4f4d-b50e-6cf5bc25fe54",
+            "Value": {
+                "id": "c7096848-9f2b-4612-b3c5-90ad2703d800",
+                "resourcePath": "objects\\obj_DepositZone\\obj_DepositZone.yy",
                 "resourceType": "GMObject"
             }
         },

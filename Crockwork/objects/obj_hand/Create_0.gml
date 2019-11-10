@@ -7,3 +7,6 @@ y = mouse_x;
 
 mouse_old_x=x;
 mouse_old_y=y;
+
+grabbable_hits = noone;
+croc_hits = noone;
