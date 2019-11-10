@@ -1,3 +1,7 @@
 Sources:
 Early mouse movement code was borrowed from user Nocturne of the Game Maker forums at
 https://forum.yoyogames.com/index.php?threads/tracking-mouse-movement-speed-direction.47960/#post-295032
+
+Sounds sourced and modified from users:
+ProjectsU012, newagesoup, Sea Fury, Owlish Media, Dean-Raule_DiArchangeli, infobandit, visualasylum, FoolBoyMedia, EFlexMusic, ShockwaveFilms, InspectorJ
+on freesound.org
