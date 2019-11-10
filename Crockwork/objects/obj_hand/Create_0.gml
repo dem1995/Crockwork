@@ -10,3 +10,7 @@ mouse_old_y=y;
 
 grabbable_hits = noone;
 croc_hits = noone;
+
+hit_croc = false;
+
+mouse_prev_pressed = false;

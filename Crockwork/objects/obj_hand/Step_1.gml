@@ -13,13 +13,13 @@ var _dir = point_direction(mouse_old_x, mouse_old_y, mouse_x, mouse_y);
 
 var _modified_dist = _dist;
 
-var _delta_x = _modified_dist*cos(pi/180*_dir);
-var _delta_y = -_modified_dist*sin(pi/180*_dir);
+delta_x = _modified_dist*cos(pi/180*_dir);
+delta_y = -_modified_dist*sin(pi/180*_dir);
 
 //speed = clamp(speed, 0, spd_max);
 
-x = x + _delta_x * _x_sensitivity;
-y = y + _delta_y * _y_sensitivity;
+x = x + delta_x * _x_sensitivity;
+y = y + delta_y * _y_sensitivity;
 
 mouse_old_x = mouse_x
 mouse_old_y = mouse_y
