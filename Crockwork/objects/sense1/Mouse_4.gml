@@ -4,12 +4,12 @@
 
 
 
-global.sensitvity = get_integer("Set betweenn 0-100 here", global.sensitvity);
+global.sensitivity = get_integer("Set between 0-100 here", global.sensitivity);
 
-if (global.sensitvity > 100)
-	global.sensitvity = 100;
-if (global.sensitvity <= 0)
-	global.sensitvity = 1;
+if (global.sensitivity > 100)
+	global.sensitivity = 100;
+if (global.sensitivity <= 0)
+	global.sensitivity = 1;
 	
 	
 

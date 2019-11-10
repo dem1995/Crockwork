@@ -1,12 +1,17 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var _sensitivity_direction_x = -1; //Not yet used. Need to go back later and apply fancy math.
-var _sensitivity_direction_y = 0; //Not yet used. Need to go back later and apply fancy math.
+var _sensitivity_direction_x = 1; //Not yet used. Need to go back later and apply fancy math.
+var _sensitivity_direction_y = 1; //Not yet used. Need to go back later and apply fancy math.
 
+if (variable_global_exists("sensitivity"))
+{
+	_sensitivity_direction_x = global.sensitivity/100;
+	_sensitivity_direction_y = global.sensitivity/100;
+}
 
-var _x_sensitivity = 1;
-var _y_sensitivity = 1;
+var _x_sensitivity = _sensitivity_direction_x;
+var _y_sensitivity = _sensitivity_direction_y;
 
 var _dist = point_distance(mouse_old_x, mouse_old_y, mouse_x, mouse_y);
 var _dir = point_direction(mouse_old_x, mouse_old_y, mouse_x, mouse_y);
