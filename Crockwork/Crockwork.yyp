@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "6a4188f2-3d5e-443b-894d-63063087d727",
+            "Value": {
+                "id": "ec9285b8-5643-4c60-b9ac-01bca4dc1e09",
+                "resourcePath": "sprites\\spr_CROCWORCTitle\\spr_CROCWORCTitle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c066a13-dfd5-4989-a949-2597789c378c",
             "Value": {
                 "id": "d5fe7e01-b64d-45b8-a5b9-99f354b9e71e",
@@ -508,6 +516,14 @@
                 "id": "02896817-f981-4419-94fd-bc2368df43fe",
                 "resourcePath": "sprites\\startbuttonSprite\\startbuttonSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe0eead6-6a44-4597-becd-dbd69654b1b6",
+            "Value": {
+                "id": "1c5f47e0-0be9-419b-a3be-6376286d88c0",
+                "resourcePath": "objects\\title\\title.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
