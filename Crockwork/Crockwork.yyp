@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "07f08bba-1a84-4d1b-8221-4de14bfe3b47",
+            "Value": {
+                "id": "6fbbc443-759b-4492-aa48-7cd80e064f77",
+                "resourcePath": "sounds\\biteSound\\biteSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0e4cbff8-7eb2-4a98-952e-81c1e73ed5fe",
             "Value": {
                 "id": "0c176d7d-c0d6-464f-81fc-8327700b9d6c",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "962ff41e-9f6b-42eb-9d83-b4e9eb8f798a",
+            "Value": {
+                "id": "9bf692cf-1dd0-42e0-9089-22747485386b",
+                "resourcePath": "sounds\\pickupSound\\pickupSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9ccb1124-328c-49c1-9ffb-183a7de2b318",
             "Value": {
                 "id": "baafd301-ef42-461c-b969-3d22da04d726",
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "c06aa740-e05d-4bb1-be27-5e8492e624c3",
+            "Value": {
+                "id": "5bf9eddb-41a4-45b6-a45a-bb6badd8e8c4",
+                "resourcePath": "sounds\\mainMusic\\mainMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c2b16c0a-f9a6-4def-b95c-b19f8d22d884",
             "Value": {
                 "id": "7aaa8777-50eb-4c33-9079-392244486d58",
@@ -323,6 +347,14 @@
             "Value": {
                 "id": "b361699b-6705-41c3-8cbe-bc4f911279d9",
                 "resourcePath": "sounds\\sound0\\sound0.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d7055267-ed38-4954-ae18-e8d7a39f452e",
+            "Value": {
+                "id": "b473f5e9-cc7b-4046-a9b5-da54e53b6997",
+                "resourcePath": "sounds\\gameOverMusic\\gameOverMusic.yy",
                 "resourceType": "GMSound"
             }
         },
