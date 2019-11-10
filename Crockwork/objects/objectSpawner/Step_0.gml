@@ -5,7 +5,8 @@ if (instance.x >= 650)
 {
 	score = score + 1;
 	instance_destroy(instance);
-	instance = instance_create_depth(x, y, -20, obj_Face);
+	instance = instance_create_depth(x, y, 0, obj_Face);
+	instance.sprite_index = choose(spr_coffee, spr_stapler, spr_tape, spr_clip)
 }
 /*
 if (alarm[0] == -1) // if alarm has ended - reset cond.

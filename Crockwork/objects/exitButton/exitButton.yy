@@ -1,5 +1,5 @@
 {
-    "id": "3cb94340-b031-4309-916e-edebdddf4d5e",
+    "id": "c2fc1b50-c1d6-4c0e-afde-1769226d347e",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "exitButton",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a54d7b77-8b4b-41a9-839f-249e53ee58d7",
+    "spriteId": "f12dbfe5-ab1d-4833-bf4a-a5fd1fbeb055",
     "visible": true
 }
