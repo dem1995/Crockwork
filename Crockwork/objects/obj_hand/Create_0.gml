@@ -14,3 +14,5 @@ croc_hits = noone;
 hit_croc = false;
 
 mouse_prev_pressed = false;
+
+window_set_cursor(cr_none);
