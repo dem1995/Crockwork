@@ -7,6 +7,7 @@ if (current_time/1000 >= time_of_next_snap)
 	time_of_last_snap = current_time/1000;
 	times_snapped++;
 	//Change croc's state
+	audio_play_sound(biteSound,10,false)
 	sprite_index = spr_crocbite
 	
 	
