@@ -1,19 +1,10 @@
 {
-    "id": "e2494be1-57ec-476b-89e9-e881fa0aaa5d",
+    "id": "3cb94340-b031-4309-916e-edebdddf4d5e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "startbutton",
+    "name": "exitButton",
     "eventList": [
-        {
-            "id": "730dc4f0-7d5b-4302-a9a6-9605e5600808",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "e2494be1-57ec-476b-89e9-e881fa0aaa5d"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e2f66370-927a-4e86-9ea5-cbd815c2e822",
+    "spriteId": "a54d7b77-8b4b-41a9-839f-249e53ee58d7",
     "visible": true
 }
