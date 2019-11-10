@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "5a80c136-501f-4781-ab25-1c4853c4b865",
+            "Value": {
+                "id": "59176416-25cb-4e25-bb05-ec3ddf79f5f8",
+                "resourcePath": "sprites\\spr_crocbite\\spr_crocbite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f593a93-590f-4ab4-876a-09a5a8843ef1",
             "Value": {
                 "id": "ba360de9-c10a-46e6-b0bb-bd22ac2e38ca",
