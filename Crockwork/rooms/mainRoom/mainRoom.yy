@@ -47,7 +47,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "be436b1a-6695-4746-a309-dd4524051e25",
-            "animationFPS": 15,
+            "animationFPS": 1,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 100,
@@ -75,8 +75,8 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": -700,
-            "y": -600
+            "x": 0,
+            "y": 0
         }
     ],
     "modelName": "GMRoom",
