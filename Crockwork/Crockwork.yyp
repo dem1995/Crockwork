@@ -82,7 +82,7 @@
             "Key": "30c24ae8-8f1c-4e39-adfb-daebb749727b",
             "Value": {
                 "id": "1fd5efb7-7156-4dd9-8a6c-4b1768977c5f",
-                "resourcePath": "sprites\\hand\\hand.yy",
+                "resourcePath": "sprites\\spr_hand\\spr_hand.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -122,7 +122,7 @@
             "Key": "73ea5d39-83d9-4dd9-b170-66f60eb531e8",
             "Value": {
                 "id": "a3f5bdc5-599b-43f0-b4c1-87300e448bb4",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourcePath": "sprites\\spr_face\\spr_face.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "c6078650-4d29-444c-9fe0-1a8f3417fd4f",
             "Value": {
                 "id": "de96a0e4-1113-4392-816f-c1f648f94cda",
-                "resourcePath": "objects\\obj_hand\\obj_hand.yy",
+                "resourcePath": "objects\\obj_Hand\\obj_Hand.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -242,7 +242,7 @@
             "Key": "f8bc9779-f439-4fe7-8127-48707d7e9a5a",
             "Value": {
                 "id": "ce072f63-a313-48a9-8acf-143a5d3903e5",
-                "resourcePath": "objects\\object1\\object1.yy",
+                "resourcePath": "objects\\obj_Face\\obj_Face.yy",
                 "resourceType": "GMObject"
             }
         }
