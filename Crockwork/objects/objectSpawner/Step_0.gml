@@ -3,7 +3,7 @@
 
 if (instance.x >= 600)
 {
-	global.player_score = global.player_score + 1
+	score = score + 1
 	instance_destroy(instance)
-	instance = instance_create_depth(211, 486, -20, obj_Face);
+	instance = instance_create_depth(x, y, -20, obj_Face);
 }
