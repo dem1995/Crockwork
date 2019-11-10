@@ -28,3 +28,7 @@ else
 {
 	hit_croc = false;
 }
+if (hit_croc == true) and score>0
+{
+	room_goto(GameOver);
+}
