@@ -178,7 +178,7 @@
             "Key": "c6078650-4d29-444c-9fe0-1a8f3417fd4f",
             "Value": {
                 "id": "de96a0e4-1113-4392-816f-c1f648f94cda",
-                "resourcePath": "objects\\Cursor\\Cursor.yy",
+                "resourcePath": "objects\\obj_hand\\obj_hand.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -204,6 +204,14 @@
                 "id": "b961d738-c9b3-4c1c-b672-275dcc8bb383",
                 "resourcePath": "views\\df0bfc20-e8d8-4a49-b89f-96c96cd3f46e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3b99570-1888-476a-ac9f-7c1a9e7bf035",
+            "Value": {
+                "id": "aafb06d8-f083-4541-b68d-c083e877d776",
+                "resourcePath": "notes\\sources.yy",
+                "resourceType": "GMNotes"
             }
         },
         {

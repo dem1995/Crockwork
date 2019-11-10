@@ -1,0 +1,3 @@
+Sources:
+Early mouse movement code was borrowed from user Nocturne of the Game Maker forums at
+https://forum.yoyogames.com/index.php?threads/tracking-mouse-movement-speed-direction.47960/#post-295032
