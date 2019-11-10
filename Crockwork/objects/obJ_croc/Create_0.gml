@@ -3,6 +3,7 @@
 
 starting_snap = false;
 ending_snap = false;
+Growl = true
 
 times_snapped = 0;
 time_of_last_snap = current_time/1000;

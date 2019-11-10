@@ -15,7 +15,7 @@ if (mouse_prev_pressed and grabbable_hits!= noone)
 	grabbable_hits.drag_y_delta = delta_y;
 	grabbable_hits.dragged = true;
 }
-if (mouse_check_button_pressed(mb_left))
+if (mouse_check_button_pressed(mb_left) and grabbable_hits != noone)
 {
 	audio_play_sound(pickupSound, 10, false);
 }
