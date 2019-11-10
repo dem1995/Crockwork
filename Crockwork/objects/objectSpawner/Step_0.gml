@@ -7,7 +7,7 @@ if (instance.x >= 650)
 	instance_destroy(instance);
 	instance = instance_create_depth(x, y, -20, obj_Face);
 }
-
+/*
 if (alarm[0] == -1) // if alarm has ended - reset cond.
 {
 	score++;
@@ -21,4 +21,5 @@ else if (set_off_time >= timer/2)
 	// snap the mouth shut
 	alarm[0] = -1
 }
+*/
 

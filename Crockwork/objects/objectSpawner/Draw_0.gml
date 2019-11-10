@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+/*
 draw_set_color(c_black);
 draw_text(100, 100, "freq modifier: " + string(freq_modifier));
 draw_set_color(c_black);
@@ -10,3 +11,4 @@ draw_set_color(c_black);
 draw_text(100, 190, "timer: " + string(timer));
 draw_set_color(c_black);
 draw_text(100, 220, "alarm2: " + string(alarm[1]));
+*/
